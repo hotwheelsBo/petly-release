@@ -1,5 +1,13 @@
 # Petly
 
+<p align="center">
+  <img src="./assets/app-icon.png" width="96" alt="Petly icon" />
+</p>
+
+<p align="center">
+  <img src="./assets/onboarding-pets.webp" alt="Petly desktop companion preview" />
+</p>
+
 Petly is a desktop companion that lives quietly on your screen while you work. It gives you a small pixel pet to care for, chat with, and grow over time through simple daily interactions.
 
 Official website: https://petly.hpaiapp.com/
