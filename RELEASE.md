@@ -2,6 +2,14 @@
 
 Petly v1.0.0 desktop release.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hotwheelsBo/petly-release/main/assets/app-icon.png" width="96" alt="Petly icon" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hotwheelsBo/petly-release/main/assets/onboarding-pets.webp" alt="Petly desktop companion preview" />
+</p>
+
 ## What's Included
 
 - Desktop companion app with cloud account sync.
@@ -21,4 +29,3 @@ Petly v1.0.0 desktop release.
 
 - Desktop artifacts are currently unsigned, so OS security warnings may appear.
 - Paid-flow release requires one real WeChat payment verification for callback delivery and VIP entitlement refresh.
-
