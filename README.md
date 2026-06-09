@@ -1,5 +1,7 @@
 # Petly
 
+[中文说明](./README.zh-CN.md)
+
 <p align="center">
   <img src="./assets/app-icon.png" width="96" alt="Petly icon" />
 </p>
