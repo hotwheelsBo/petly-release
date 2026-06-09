@@ -9,4 +9,5 @@ dist/
 *.tar.gz
 *.blockmap
 SHA256SUMS
-
+publish-github-release.sh
+setup-public-repo.sh
