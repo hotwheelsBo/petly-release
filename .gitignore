@@ -1,0 +1,12 @@
+# Keep this repository docs-only. Installers are uploaded as GitHub Release assets.
+dist/
+*.dmg
+*.exe
+*.AppImage
+*.zip
+*.deb
+*.rpm
+*.tar.gz
+*.blockmap
+SHA256SUMS
+
